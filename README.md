@@ -73,3 +73,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 We hope you find these scripts helpful for setting up your Linux system quickly and efficiently. If you encounter any issues or have suggestions for improvement, please don't hesitate to [open an issue](https://github.com/ofmukesh/Linux-System-Setups/issues).
 
 Happy coding!# Linux-System-Setups
+# Linux-System-Setups
