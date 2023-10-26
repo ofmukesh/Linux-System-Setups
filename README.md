@@ -64,7 +64,9 @@ Each script is self-contained and designed to perform a specific installation ta
 
 ## Contributing
 
-If you would like to contribute to this project by adding more scripts or improving the existing ones, please feel free to submit a pull request. Contributions and suggestions are welcome!
+We welcome contributions from the community to make this project better. Before you start, please read our [Contribution Guidelines](CONTRIBUTING.md) for detailed information on how to contribute to this project.
+
+If you have any questions or need further assistance, don't hesitate to [contact us](mailto:of.mukesh@gmail.com).
 
 ## License
 

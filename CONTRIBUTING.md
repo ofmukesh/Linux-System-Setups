@@ -1,13 +1,12 @@
 # Contribution Guidelines
 
-Welcome to the [Your Project Name] repository! We appreciate your interest in contributing to our open-source project. By contributing, you help make this project better for everyone.
+Welcome to the Linux System Setups repository! We appreciate your interest in contributing to our open-source project. By contributing, you help make this project better for everyone.
 
 Before you start contributing, please take a moment to review the guidelines below.
 
 ## Table of Contents
 
 - [How to Contribute](#how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
 - [Report Issues](#report-issues)
 - [Pull Request Process](#pull-request-process)
 - [License](#license)
@@ -19,8 +18,8 @@ Before you start contributing, please take a moment to review the guidelines bel
 2. **Clone Your Fork:** Clone your forked repository to your local development environment.
 
    ```bash
-   git clone https://github.com/yourusername/Your-Project-Name.git
-   cd Your-Project-Name
+   git clone https://github.com/ofmukesh/Linux-System-Setups.git
+   cd Linux-System-Setups
    ```
 
 3. **Create a New Branch:** Before you start making changes, create a new branch for your contribution. Be sure to give it a descriptive name.
@@ -53,9 +52,6 @@ Before you start contributing, please take a moment to review the guidelines bel
 
 11. **Celebrate:** Your contribution is now part of the project! Thank you for your help.
 
-## Code of Conduct
-
-Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions with this project.
 
 ## Report Issues
 
@@ -73,4 +69,4 @@ If you encounter any issues, please [open an issue](https://github.com/ofmukesh/
 
 By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) of the project.
 
-Thank you for considering contributing to [Your Project Name]! We look forward to your contributions and appreciate your help in making this project better.
+Thank you for considering contributing to Linux System Setups! We look forward to your contributions and appreciate your help in making this project better.
