@@ -3,6 +3,8 @@ markdown
 
 This repository contains a collection of Bash scripts designed to simplify the installation of essential software on a Linux system, specifically Visual Studio Code (VSCode) and Brave Browser. These scripts will help you save time and effort when setting up your Linux environment.
 
+For detailed instructions and additional information, please visit our [full documentation](https://marco-7.notion.site/Linux-System-Setup-8e7942bf011f424a99cdf81260b81816?pvs=4).
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
