@@ -1,7 +1,7 @@
-
+markdown
 # Linux System Setups
 
-This repository contains some bash scripts to simplify the installation of essential software on a Linux system: Visual Studio Code (VSCode) and Brave Browser. These scripts will save you time and effort when setting up your Linux environment.
+This repository contains a collection of Bash scripts designed to simplify the installation of essential software on a Linux system, specifically Visual Studio Code (VSCode) and Brave Browser. These scripts will help you save time and effort when setting up your Linux environment.
 
 ## Table of Contents
 
@@ -13,7 +13,7 @@ This repository contains some bash scripts to simplify the installation of essen
 
 ## Prerequisites
 
-Before using the scripts in this repository, you should ensure that you have the following prerequisites:
+Before using the scripts in this repository, make sure you have the following prerequisites:
 
 - A working Linux installation.
 - A terminal emulator (e.g., GNOME Terminal, Konsole, xterm).
@@ -27,7 +27,7 @@ To use the scripts in this repository, follow these general steps:
 
    ```bash
    git clone https://github.com/ofmukesh/Linux-System-Setups.git
-   cd-Linux-System-Setups
+   cd Linux-System-Setups
    ```
 
 2. Make the scripts executable if they're not already:
@@ -47,6 +47,11 @@ Please review the individual script files for specific usage instructions and de
 ## Available Scripts
 
 The following scripts are available in this repository:
+
+- **gestures-setup.bash**: Use this script to install [Libinput-gestures](https://github.com/bulletmark/libinput-gestures#readme).
+  ```bash
+  sudo ./gestures-setup.bash
+  ```
 
 - **brave-install.bash**: Use this script to install Brave Browser.
 
@@ -74,5 +79,4 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 We hope you find these scripts helpful for setting up your Linux system quickly and efficiently. If you encounter any issues or have suggestions for improvement, please don't hesitate to [open an issue](https://github.com/ofmukesh/Linux-System-Setups/issues).
 
-Happy coding!# Linux-System-Setups
-# Linux-System-Setups
+Happy coding!
