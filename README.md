@@ -1,7 +1,7 @@
 markdown
 # Linux System Setups
 
-This repository contains a collection of Bash scripts designed to simplify the installation of essential software on a Linux system, specifically Visual Studio Code (VSCode) and Brave Browser. These scripts will help you save time and effort when setting up your Linux environment.
+This repository contains a collection of Bash scripts designed to simplify the installation of essential software on a Linux system. These scripts will help you save time and effort when setting up your Linux environment.
 
 For detailed instructions and additional information, please visit our [full documentation](https://marco-7.notion.site/Linux-System-Setup-8e7942bf011f424a99cdf81260b81816?pvs=4).
 
@@ -48,6 +48,8 @@ Please review the individual script files for specific usage instructions and de
 
 ## Available Scripts
 
+Each script is self-contained and designed to perform a specific installation task. Use the provided command for each script to initiate the installation.
+
 The following scripts are available in this repository:
 
 - **gestures-setup.bash**: Use this script to install [Libinput-gestures](https://github.com/bulletmark/libinput-gestures#readme).
@@ -67,7 +69,9 @@ The following scripts are available in this repository:
   sudo ./vscode-install.bash
   ```
 
-Each script is self-contained and designed to perform a specific installation task. Use the provided command for each script to initiate the installation.
+#### Download Additional Packages
+
+You can download additional packages from our [Packages](packages) folder.
 
 ## Contributing
 
