@@ -52,26 +52,18 @@ Each script is self-contained and designed to perform a specific installation ta
 
 The following scripts are available in this repository:
 
-- **gestures-setup.bash**: Use this script to install [Libinput-gestures](https://github.com/bulletmark/libinput-gestures#readme).
-  ```bash
-  sudo ./gestures-setup.bash
-  ```
+1. **gestures-setup.bash**: Use this script to install [Libinput-gestures](https://github.com/bulletmark/libinput-gestures#readme).
 
-- **brave-install.bash**: Use this script to install Brave Browser.
+2. **brave-install.bash**: Use this script to install Brave Browser.
 
-  ```bash
-  sudo ./brave-install.bash
-  ```
+3. **vscode-install.bash**: Use this script to install Visual Studio Code (VSCode).
 
-- **vscode-install.bash**: Use this script to install Visual Studio Code (VSCode).
+4. **nodejs-setup.bash**: Use this script to install `nodejs` & `npm`.
 
-  ```bash
-  sudo ./vscode-install.bash
-  ```
+### Additional Packages
 
-#### Download Additional Packages
+1 **pyenv-setup.bash**: Use this script to install `pyenv` Python library.
 
-You can download additional packages from our [Packages](packages) folder.
 
 ## Contributing
 
